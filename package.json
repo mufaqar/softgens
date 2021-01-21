@@ -1,7 +1,7 @@
 {
   "name": "kipso-gatsby",
   "version": "1.0.0",
-  "main": "index.js",
+  "homepage": "https://mufaqar.github.io/softgens/",
   "license": "MIT",
   "scripts": {
     "dev": "gatsby develop",
